@@ -18,19 +18,6 @@ public class Usuario {
     public boolean Consumir(){  
     return true;
     };
-    void setPaterno(String nextLine) {
-        throw new UnsupportedOperationException("Not supported yet."); 
-    }
-    void setMaterno(String nextLine) {
-        throw new UnsupportedOperationException("Not supported yet."); 
-    }
-    void setNombres(String nextLine) {
-        throw new UnsupportedOperationException("Not supported yet."); 
-    }
-    void setTipoDocumento(String nextLine) {
-        throw new UnsupportedOperationException("Not supported yet."); 
-    }
-    void setDocumento(String nextLine) {
-        throw new UnsupportedOperationException("Not supported yet."); 
-    }
+
 }
+

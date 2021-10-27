@@ -16,7 +16,4 @@ public class Tarjeta1 {
     public boolean consumir(){       
     return true;
     };   
-    void setNumero(int nextInt) {
-        throw new UnsupportedOperationException("Not supported yet.");
-    }
 }
